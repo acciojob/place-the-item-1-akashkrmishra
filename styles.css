@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.child{
+	height:150px;
+	width:150px;
+}
+.s1{
+	background-color:red;
+	font-weight:700;
+	font-size:50px;
+	
+}
+.s2{
+	background-color:green;
+	font-weight:700;
+	font-size:50px;
+}
+.s3{
+	background-color:blue;
+	font-weight:700;
+	font-size:50px;
+}
